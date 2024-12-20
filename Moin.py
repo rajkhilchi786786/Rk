@@ -2,7 +2,6 @@ import os
 import socket
 import subprocess
 import asyncio
-import pytz
 import platform
 import random
 import string
